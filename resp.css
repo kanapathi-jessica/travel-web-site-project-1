@@ -1,0 +1,9 @@
+body{
+margin: 0;
+}
+@media screen (max-width:320px) {
+    .body{
+    width:100%;
+    padding:10px;
+    }
+}
